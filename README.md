@@ -1,2 +1,2 @@
 # ComputationalIntelligenceHW8
-Kohonen Networks
+Kohonen Networks n stuff
